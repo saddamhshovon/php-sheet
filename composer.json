@@ -1,0 +1,15 @@
+{
+    "name": "saddamhshovon/php-sheet",
+    "description": "A project to test google sheet's api",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Saddam Hossen",
+            "email": "saddamhshovon@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.13",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
